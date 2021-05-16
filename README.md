@@ -49,7 +49,7 @@ OBS: É possível acompanhar o resultado dos testes no prórpio terminal onde os
 Execução da aplicação
 ----------------
 
-Por se tratar de uma api, a aplicação não possui interface `GUI` e deve ser inicializada a partir de um web server. Para executar operações, utilize comandos `CURL` ou softwares como o [Postman](https://www.postman.com/). Uma cópia da collection contendo exemplos de execução para uso no Postman encontra-se disponível no arquivo:
+Por se tratar de uma api, a aplicação não possui interface `GUI` e deve ser inicializada a partir de um web server. Para executar operações, utilize comandos `CURL` ou softwares como o [Postman](https://www.postman.com/). Uma cópia da collection contendo exemplos de execução para uso no Postman pode ser [importada](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman) através do arquivo abaixo:
 
     {{application-path}}/docs/Bexs-Banco.postman_collection.json
 
