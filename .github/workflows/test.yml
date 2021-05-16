@@ -23,5 +23,5 @@ jobs:
     - name: Install dev requirements
       run: make .dev-requirements
 
-    - name: Run code convention
+    - name: Run tests
       run: make test
