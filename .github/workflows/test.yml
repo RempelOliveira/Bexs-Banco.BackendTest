@@ -21,7 +21,7 @@ jobs:
         python-version: 3.8.0
 
     - name: Install dev requirements
-      run: make dev-requirements
+      run: make .dev-requirements
 
     - name: Run code convention
       run: make test
