@@ -4,7 +4,7 @@ BEXS BANCO - TESTE
 Introdução
 ------------
 
-Está é uma simples aplicação teste baseada em [Python] (https://www.python.org) para empresa BEXS BANCO.
+Está é uma simples aplicação teste baseada em [Python](https://www.python.org) para empresa BEXS BANCO.
 
 Instalação
 ------------
