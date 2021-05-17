@@ -4,16 +4,18 @@ BEXS BANCO - TESTE
 Introdução
 ------------
 
-Está é uma simples aplicação teste baseada em Python para empresa BEXS BANCO.
+Está é uma simples aplicação teste baseada em [Python] (https://www.python.org) para empresa BEXS BANCO.
 
 Instalação
 ------------
 
-Clone ou baixe uma cópia a partir da branch `main`. Através de um terminal, acesse a raíz do projeto e execute o comando:
+Primeiramente, certifique-se de possuir a instalação das ferramentas [pyenv](https://github.com/pyenv/pyenv#installation) e [pip](https://pip.pypa.io/en/stable/installing/), a partir disso, pode-se clonar ou baixar uma cópia da branch `main`.
+
+Através de um terminal, acesse a raíz do projeto e execute o comando:
 
     $ make install
 
-A instalação irá resolver todas as dependências do projeto, criar ambiente prórpio para aplicação (venv), executar testes unitários, de integração e code convention.
+A instalação irá resolver todas as dependências do projeto, criar ambiente prórpio para aplicação (pyenv), executar testes unitários, de integração e code convention.
 
 Caso deseje visualizar todas as ações pré-configuradas, execute o comando:
 
